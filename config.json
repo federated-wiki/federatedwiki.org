@@ -1,0 +1,11 @@
+{
+  "farm": true,
+  "autoseed": true,
+  "security_type": "passportjs",
+  "twitter_consumerKey": "",
+  "twitter_consumerSecret": "",
+  "wikiDomains": {
+    "federatedwiki.org": {},
+    "fedwiki.djon.es": {}
+  }
+}
